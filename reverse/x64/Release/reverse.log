@@ -1,0 +1,9 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (VenomVgreen.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  imgui_widgets.cpp
+Imgui\imgui_widgets.cpp(885,117): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Imgui\imgui_widgets.cpp(885,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Imgui\imgui_widgets.cpp(886,35): warning C4305: 'argument': truncation from 'double' to 'float'
+Imgui\imgui_widgets.cpp(891,64): warning C4305: 'argument': truncation from 'double' to 'float'
+Imgui\imgui_widgets.cpp(891,105): warning C4305: 'argument': truncation from 'double' to 'float'
+Imgui\imgui_widgets.cpp(894,79): warning C4305: 'argument': truncation from 'double' to 'float'
+LINK : fatal error LNK1104: cannot open file 'C:\Users\h4eck\Documents\neh\x64\Release\Reverse.exe'
